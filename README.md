@@ -38,7 +38,7 @@ healthcare-claims-validation/
 
 - [rejected_claims.csv](https://github.com/user-attachments/files/27488623/rejected_claims.csv)
 
-- validation_summary.txt[validation_summary.txt](https://github.com/user-attachments/files/27488624/validation_summary.txt)
+- [validation_summary.txt](https://github.com/user-attachments/files/27488624/validation_summary.txt)
 
 Healthcare Claims Validation Summary
 
