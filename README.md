@@ -40,24 +40,6 @@ healthcare-claims-validation/
 
 - [validation_summary.txt](https://github.com/user-attachments/files/27488624/validation_summary.txt)
 
-Healthcare Claims Validation Summary
-
-Total records processed: 10
-Valid records: 2
-Rejected records: 8
-Rejection rate: 80.0%
-
-Top Rejection Reasons:
-rejection_reason
-Invalid claim_amount;                  2
-Missing claim_id;                      1
-Invalid claim_status;                  1
-service_date after submitted_date;     1
-Invalid service_date;                  1
-Invalid submitted_date;                1
-Invalid age_group;                     1
-
-
 ## Tools Used
 - Python
 - Pandas
