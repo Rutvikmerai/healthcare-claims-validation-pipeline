@@ -16,7 +16,6 @@ Healthcare organizations need accurate claims data for billing, reporting, and c
 - Age group must be Child, Adult, or Senior
 
 ## Project Structure
-```text
 healthcare-claims-validation/
 ├── data/
 │   ├── claims_clean.csv
@@ -31,6 +30,7 @@ healthcare-claims-validation/
 │   └── cleaner.py
 ├── README.md
 └── requirements.txt
+
 
 ## Output
 - valid_claims.csv
