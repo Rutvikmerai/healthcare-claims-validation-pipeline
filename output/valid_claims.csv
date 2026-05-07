@@ -1,0 +1,3 @@
+claim_id,patient_id,provider_id,diagnosis_code,procedure_code,claim_amount,insurance_plan,claim_status,service_date,submitted_date,state,age_group,rejection_reason
+CLM2001,PAT301,PRV401,DX201,PROC1001,250.5,Gold,Approved,2024-01-01,2024-01-03,OH,Adult,
+CLM2009,PAT309,PRV409,DX209,PROC1009,200.0,Gold,Approved,2024-01-09,2024-01-11,TX,Child,
